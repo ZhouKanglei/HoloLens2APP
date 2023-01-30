@@ -1,0 +1,4 @@
+repository "stgae@zhoukanglei@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
